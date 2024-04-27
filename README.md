@@ -59,7 +59,7 @@ Certifique-se de ter o [Docker](https://docs.docker.com/engine/install/) instala
 
 ---
 
-## Como executar o projeto (API (A))
+## Como executar o projeto (API (B))
 
 ### Modo de desenvolvimento
 
