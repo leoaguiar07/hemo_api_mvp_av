@@ -8,7 +8,7 @@
 <p align="center">
  <a href="#sobre-o-projeto">Sobre</a> •
  <a href="#arquitetura">Arquitetura</a> • 
- <a href="#como-executar-o-projeto-(API-(A))">Como executar</a> • 
+ <a href="#modo-de-desenvolvimento">Como executar</a> • 
  <a href="#tecnologias">Tecnologias</a> • 
  <a href="#autor">Autor</a> • 
  <a href="#licença">Licença</a>
