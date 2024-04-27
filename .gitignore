@@ -1,0 +1,16 @@
+# Ignorar arquivos de cache Python
+*.pyc
+
+# Ignorar pastas __pycache__
+__pycache__/
+
+# Ignorar a pasta venv
+venv/
+
+# Ignorar o arquivo .env
+.env
+
+# Ignore os arquivos abaixo
+TODOs.txt
+MAPA.txt
+teste.py
