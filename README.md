@@ -43,7 +43,7 @@ Acesse o [Readme](https://github.com/leoaguiar07/hemo_front_mvp_av) para visuali
 </h1>
 
 Este projeto é divido em três partes:
-1. Frontend (A) ([Readme](https://github.com/leoaguiar07/hemo_api_mvp_av))
+1. Frontend (A) ([Readme](https://github.com/leoaguiar07/hemo_front_mvp_av))
 2. API (B) 
 3. API (C) ([Readme](https://github.com/leoaguiar07/hemo_cep_api_mvp_av))
 
