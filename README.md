@@ -21,7 +21,7 @@
 
 ## Sobre o projeto
 
-O projeto tem como finalidade centralizar informações sobre hemocentros, coletas e doadores. Permitindo o cadastro de hemocentros, doações, doadores e possíveis doadores. Visualize os dados em um dashboard que mostra unidades doadas no dia, comparação de crescimento de possíveis doadores cadastrados e doadores que já realizaram doações, comparação entre estoque ideal de unidades de sangue e estoque real de unidades, número de doçãoes por dia de cada tipo sanguíneo. Os dados podem ser visualizados por hemocentro, por estado ou todo o país (todos os hemocentros cadastrados). 
+O projeto tem como finalidade centralizar informações sobre hemocentros, coletas e doadores. Permitindo o cadastro de hemocentros, doações, doadores e possíveis doadores. Visualize os dados em um dashboard que mostra unidades doadas no dia, comparação de crescimento de possíveis doadores cadastrados e doadores que já realizaram doações, comparação entre estoque ideal de unidades de sangue e estoque real de unidades, número de doações por dia de cada tipo sanguíneo. Os dados podem ser visualizados por hemocentro, por estado ou todo o país (todos os hemocentros cadastrados). 
 
 Busque doadores cadastrados no sistema próximos aos hemocentros ou próximo a um endereço informado (PCM - ponto de coleta móvel). Selecione o hemocentro (ou PCM), informe a distância (Km) e escolha ação a ser realizada: enviar e-mail, enviar SMS ou enviar mensagem via Whatsapp/Telegram
 
