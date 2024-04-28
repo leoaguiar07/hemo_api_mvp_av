@@ -87,7 +87,7 @@ Para executar a API  basta executar:
 
 #### Acesso no browser
 
-Abra o [http://localhost:8000/#/](http://localhost:8000/#/) no navegador para verificar o status da API em execução.
+Abra o [http://localhost:8000/#/](http://localhost:8000/api/v1/swagger/) no navegador para verificar o status da API em execução.
 
 ---
 ### Através do Docker
@@ -107,7 +107,7 @@ Uma vez criada a imagem, para executar o container basta executar, **como admini
 $ docker run -d -p 8000:8000 nome_da_sua_imagem
 ```
 
-Uma vez executando, para acessar o front-end, basta abrir o [http://localhost:8000/#/](http://localhost:8000/#/) no navegador.
+Uma vez executando, para acessar o front-end, basta abrir o [http://localhost:8000/api/v1/swagger/](http://localhost:8000/api/v1/swagger/) no navegador.
 
 💡 O Frontend precisa que as APIs (B e C) estejam sendo executadas para funcionar perfeitamente.
 
