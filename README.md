@@ -104,10 +104,10 @@ $ docker build -t nome_da_sua_imagem .
 Uma vez criada a imagem, para executar o container basta executar, **como administrador**, seguinte o comando:
 
 ```
-$ docker run -d -p 8080:80 nome_da_sua_imagem
+$ docker run -d -p 8000:8000 nome_da_sua_imagem
 ```
 
-Uma vez executando, para acessar o front-end, basta abrir o [http://localhost:8080/#/](http://localhost:8080/#/) no navegador.
+Uma vez executando, para acessar o front-end, basta abrir o [http://localhost:8000/#/](http://localhost:8000/#/) no navegador.
 
 💡 O Frontend precisa que as APIs (B e C) estejam sendo executadas para funcionar perfeitamente.
 
