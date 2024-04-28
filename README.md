@@ -87,7 +87,7 @@ Para executar a API  basta executar:
 
 #### Acesso no browser
 
-Abra o [http://localhost:8000/#/](http://localhost:8000/api/v1/swagger/) no navegador para verificar o status da API em execução.
+Abra o [http://localhost:8000/api/v1/swagger/](http://localhost:8000/api/v1/swagger/) no navegador para verificar o status da API em execução.
 
 ---
 ### Através do Docker
